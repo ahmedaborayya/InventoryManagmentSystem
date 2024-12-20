@@ -107,8 +107,17 @@ For questions, feedback, or collaboration, feel free to reach out:
 ---
 
 ### Screenshots 
+### Products
+![Products](screenshots/Products.png)
 
+### Costumers
+![Costumers](screenshots/Costumers.png)
 
+### Supplers
+![Supplers](screenshots/Supplers.png)
+
+### Orders
+![Orders](screenshots/Orders.png)
 ---
 
 Thank you for using the **Inventory Management System**! Your feedback is highly appreciated.
