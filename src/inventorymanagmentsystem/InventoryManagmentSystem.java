@@ -4,6 +4,7 @@
  */
 package inventorymanagmentsystem;
 
+import com.inventory.views.frames.HomePage;
 
 
 /**
